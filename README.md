@@ -13,7 +13,7 @@ Gosto bastante de Java e C++ (Foram as linguagens que mais tive contato, mesmo q
 
 ## 🔗 Links
 [![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/matheus.torresdantas/)
-[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/matheus.torresdantas/)
+[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.torresdantas/)
 
 
 ## Outras seções comuns em perfis do GitHub
